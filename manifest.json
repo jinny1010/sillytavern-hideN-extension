@@ -1,0 +1,8 @@
+{
+  "name": "HideN Extension",
+  "version": "1.0.0",
+  "description": "Adds /hide N command to hide multiple recent messages.",
+  "author": "ChatGPT",
+  "license": "AGPL-3.0",
+  "minClientVersion": "1.13.0"
+}
